@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @narpojoe
 - 👀 I’m interested in Plogger Photo Gallery which I use for my Association website
-- 🌱 I’m currently learning PHP
+- 🌱 I’m currently learning about PHP
 - 💞️ I’m looking to collaborate on Plogger coding and fault fixing
 
 
